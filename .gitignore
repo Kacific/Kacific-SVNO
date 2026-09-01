@@ -1,0 +1,5 @@
+# Session worktrees (per the managed concurrency block in AGENTS.md)
+.claude/worktrees/
+
+# Claude Code per-machine settings (one machine's tool permissions, not repo policy)
+.claude/settings.local.json
